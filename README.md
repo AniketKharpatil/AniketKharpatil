@@ -11,3 +11,5 @@
 - 📫 How to reach me: aniketkharpatil@gmail.com
 - ⚡ Fun fact: I use Linux OS
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AniketKharpatil&" alt="AK" /></p>
