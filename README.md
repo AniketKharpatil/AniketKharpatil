@@ -7,7 +7,7 @@
 
 - 🙏 Namaste, I’m Aniket.
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Jenkins and AWS EKS
+- 🌱 I’m currently learning Jenkins and K8s
 - 💬 Ask me about AWS, Blockchain and Flutter
 - 📫 How to reach me: aniketkharpatil@gmail.com
 - ⚡ Fun fact: I use Linux OS
